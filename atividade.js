@@ -1,8 +1,6 @@
 var nota1 = 9.0;
 var nota2 = 10.0;
 var nota3 = 7.0;
-var menorNota;
-var maiorNota;
 
 var media = (nota1 + nota2 + nota3)/3;
 
